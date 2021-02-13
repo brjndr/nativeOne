@@ -10,6 +10,7 @@ export default function App() {
         "Open up App.js to start working on your app!",
         ToastAndroid.SHORT
       )}
+
       <StatusBar style="auto" />
     </View>
   );
